@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,p{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:'Roboto',sans-serif;
+}
+
+.calculator{
+    max-width: 420px;
+    height: 385px;
+    margin: 0 auto;
+    border:1px solid #000000;
+}
